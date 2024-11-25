@@ -21,4 +21,5 @@ Ce plugin permet d'utiliser la commande /journalier toute les 24h et de donner 7
 - Pour utiliser le plugin il faut utiliser la commande /journalier et l'argent sera déposer dans votre compte en banque
 
 #  📦 __Dépendance__
-*Modkit*
+
+Le /journalier ne possède aucune dépendance
